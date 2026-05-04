@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Anshulkirar/Anshulkirar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Anshul kirar 
 
 Here are some ideas to get you started:
 
@@ -33,14 +33,4 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=AnshulKirar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnshulKirar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnshulKirar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnshulKirar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=AnshulKirar&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
