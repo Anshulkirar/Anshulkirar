@@ -1,4 +1,4 @@
-Hi Anshul kirar, 
+I'm Anshul kirar, 
 Aspiring Associate Software Engineer skilled in React.js, Node.js, and Express.js, with strong fundamentals in OOP, LLD/HLD, and DSA. Experienced in building RESTful APIs, working with SQL/NoSQL databases, and integrating Generative AI (Google Gemini/OpenAI) into real applications. Quick learner, comfortable with Git and fast-paced, collaborative environments.
  
 
